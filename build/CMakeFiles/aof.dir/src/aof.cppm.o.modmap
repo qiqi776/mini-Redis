@@ -1,0 +1,4 @@
+-x c++-module
+-fmodule-output=CMakeFiles/aof.dir/aof.pcm
+-fmodule-file=logger=CMakeFiles/logger.dir/logger.pcm
+-fmodule-file=resp=CMakeFiles/resp.dir/resp.pcm

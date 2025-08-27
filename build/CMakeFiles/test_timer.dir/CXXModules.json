@@ -1,0 +1,23 @@
+{
+	"modules" : {},
+	"references" : 
+	{
+		"logger" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/logger.dir/logger.pcm"
+		},
+		"timer" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/timer.dir/timer.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"timer" : 
+		[
+			"logger"
+		]
+	}
+}

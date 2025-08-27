@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/test_integration.dir/tests/test_integration.cpp.o: dyndep | CMakeFiles/application.dir/application.pcm CMakeFiles/config.dir/config.pcm CMakeFiles/kv_server.dir/kv_server.pcm CMakeFiles/resp.dir/resp.pcm CMakeFiles/aof.dir/aof.pcm CMakeFiles/logger.dir/logger.pcm
+

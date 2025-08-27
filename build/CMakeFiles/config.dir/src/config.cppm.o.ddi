@@ -1,0 +1,21 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/config.dir/src/config.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "config",
+          "source-path": "/app/src/config.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "logger"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

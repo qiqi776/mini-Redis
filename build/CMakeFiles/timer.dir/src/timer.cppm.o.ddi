@@ -1,0 +1,21 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/timer.dir/src/timer.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "timer",
+          "source-path": "/app/src/timer.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "logger"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

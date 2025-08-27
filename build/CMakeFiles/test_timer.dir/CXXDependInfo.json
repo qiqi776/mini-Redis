@@ -1,0 +1,31 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/app/build",
+	"dir-cur-src" : "/app",
+	"dir-top-bld" : "/app/build",
+	"dir-top-src" : "/app",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/app/build/CMakeFiles/timer.dir",
+		"/app/build/CMakeFiles/logger.dir"
+	],
+	"module-dir" : "/app/build/CMakeFiles/test_timer.dir",
+	"sources" : 
+	{
+		"CMakeFiles/test_timer.dir/tests/test_timer.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/app/tests/test_timer.cpp"
+		}
+	}
+}

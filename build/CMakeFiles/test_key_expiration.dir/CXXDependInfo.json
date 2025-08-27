@@ -1,0 +1,36 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/app/build",
+	"dir-cur-src" : "/app",
+	"dir-top-bld" : "/app/build",
+	"dir-top-src" : "/app",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/app/build/CMakeFiles/kv_server.dir",
+		"/app/build/CMakeFiles/timer.dir",
+		"/app/build/CMakeFiles/logger.dir",
+		"/app/build/CMakeFiles/command.dir",
+		"/app/build/CMakeFiles/aof.dir",
+		"/app/build/CMakeFiles/resp.dir",
+		"/app/build/CMakeFiles/server_stat.dir"
+	],
+	"module-dir" : "/app/build/CMakeFiles/test_key_expiration.dir",
+	"sources" : 
+	{
+		"CMakeFiles/test_key_expiration.dir/tests/test_key_expiration.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/app/tests/test_key_expiration.cpp"
+		}
+	}
+}

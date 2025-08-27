@@ -1,0 +1,37 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/command.dir/src/command/command.cppm.o | CMakeFiles/command.dir/command.pcm: dyndep | CMakeFiles/command.dir/command_defs.pcm CMakeFiles/command.dir/command_factory.pcm
+  restat = 1
+
+build CMakeFiles/command.dir/src/command/command_defs.cppm.o | CMakeFiles/command.dir/command_defs.pcm: dyndep | CMakeFiles/resp.dir/resp.pcm CMakeFiles/logger.dir/logger.pcm CMakeFiles/aof.dir/aof.pcm CMakeFiles/server_stat.dir/server_stat.pcm
+  restat = 1
+
+build CMakeFiles/command.dir/src/command/command_factory.cppm.o | CMakeFiles/command.dir/command_factory.pcm: dyndep | CMakeFiles/command.dir/command_defs.pcm CMakeFiles/command.dir/get_command.pcm CMakeFiles/command.dir/set_command.pcm CMakeFiles/command.dir/expire_command.pcm CMakeFiles/command.dir/pexpire_command.pcm CMakeFiles/command.dir/ttl_command.pcm CMakeFiles/command.dir/pttl_command.pcm CMakeFiles/command.dir/persist_command.pcm CMakeFiles/command.dir/info_command.pcm CMakeFiles/command.dir/unknown_command.pcm CMakeFiles/resp.dir/resp.pcm CMakeFiles/logger.dir/logger.pcm
+  restat = 1
+
+build CMakeFiles/command.dir/src/command/get_command.cppm.o | CMakeFiles/command.dir/get_command.pcm: dyndep | CMakeFiles/command.dir/command_defs.pcm CMakeFiles/resp.dir/resp.pcm CMakeFiles/logger.dir/logger.pcm
+  restat = 1
+
+build CMakeFiles/command.dir/src/command/set_command.cppm.o | CMakeFiles/command.dir/set_command.pcm: dyndep | CMakeFiles/command.dir/command_defs.pcm CMakeFiles/resp.dir/resp.pcm CMakeFiles/logger.dir/logger.pcm
+  restat = 1
+
+build CMakeFiles/command.dir/src/command/expire_command.cppm.o | CMakeFiles/command.dir/expire_command.pcm: dyndep | CMakeFiles/command.dir/command_defs.pcm CMakeFiles/resp.dir/resp.pcm CMakeFiles/logger.dir/logger.pcm
+  restat = 1
+
+build CMakeFiles/command.dir/src/command/pexpire_command.cppm.o | CMakeFiles/command.dir/pexpire_command.pcm: dyndep | CMakeFiles/command.dir/command_defs.pcm CMakeFiles/resp.dir/resp.pcm CMakeFiles/logger.dir/logger.pcm
+  restat = 1
+
+build CMakeFiles/command.dir/src/command/ttl_command.cppm.o | CMakeFiles/command.dir/ttl_command.pcm: dyndep | CMakeFiles/command.dir/command_defs.pcm CMakeFiles/resp.dir/resp.pcm CMakeFiles/logger.dir/logger.pcm
+  restat = 1
+
+build CMakeFiles/command.dir/src/command/pttl_command.cppm.o | CMakeFiles/command.dir/pttl_command.pcm: dyndep | CMakeFiles/command.dir/command_defs.pcm CMakeFiles/resp.dir/resp.pcm CMakeFiles/logger.dir/logger.pcm
+  restat = 1
+
+build CMakeFiles/command.dir/src/command/persist_command.cppm.o | CMakeFiles/command.dir/persist_command.pcm: dyndep | CMakeFiles/command.dir/command_defs.pcm CMakeFiles/resp.dir/resp.pcm CMakeFiles/logger.dir/logger.pcm
+  restat = 1
+
+build CMakeFiles/command.dir/src/command/info_command.cppm.o | CMakeFiles/command.dir/info_command.pcm: dyndep | CMakeFiles/command.dir/command_defs.pcm CMakeFiles/resp.dir/resp.pcm
+  restat = 1
+
+build CMakeFiles/command.dir/src/command/unknown_command.cppm.o | CMakeFiles/command.dir/unknown_command.pcm: dyndep | CMakeFiles/command.dir/command_defs.pcm CMakeFiles/resp.dir/resp.pcm CMakeFiles/logger.dir/logger.pcm
+  restat = 1
+

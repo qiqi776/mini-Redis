@@ -1,0 +1,36 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/application.dir/src/application.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "application",
+          "source-path": "/app/src/application.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "logger"
+        },
+        {
+          "logical-name": "config"
+        },
+        {
+          "logical-name": "epoll_server"
+        },
+        {
+          "logical-name": "kv_server"
+        },
+        {
+          "logical-name": "aof"
+        },
+        {
+          "logical-name": "timer"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

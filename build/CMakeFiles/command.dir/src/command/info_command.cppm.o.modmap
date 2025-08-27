@@ -1,0 +1,7 @@
+-x c++-module
+-fmodule-output=CMakeFiles/command.dir/info_command.pcm
+-fmodule-file=command_defs=CMakeFiles/command.dir/command_defs.pcm
+-fmodule-file=resp=CMakeFiles/resp.dir/resp.pcm
+-fmodule-file=aof=CMakeFiles/aof.dir/aof.pcm
+-fmodule-file=logger=CMakeFiles/logger.dir/logger.pcm
+-fmodule-file=server_stat=CMakeFiles/server_stat.dir/server_stat.pcm

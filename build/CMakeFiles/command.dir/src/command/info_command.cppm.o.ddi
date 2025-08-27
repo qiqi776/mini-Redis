@@ -1,0 +1,24 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/command.dir/src/command/info_command.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "info_command",
+          "source-path": "/app/src/command/info_command.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "command_defs"
+        },
+        {
+          "logical-name": "resp"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

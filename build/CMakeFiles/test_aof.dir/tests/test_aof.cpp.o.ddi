@@ -1,0 +1,23 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/test_aof.dir/tests/test_aof.cpp.o",
+      "requires": [
+        {
+          "logical-name": "aof"
+        },
+        {
+          "logical-name": "config"
+        },
+        {
+          "logical-name": "kv_server"
+        },
+        {
+          "logical-name": "resp"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

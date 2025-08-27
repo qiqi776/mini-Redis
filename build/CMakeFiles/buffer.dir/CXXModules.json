@@ -1,0 +1,19 @@
+{
+	"modules" : 
+	{
+		"buffer" : 
+		{
+			"bmi" : "/app/build/CMakeFiles/buffer.dir/buffer.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"buffer" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/buffer.dir/buffer.pcm"
+		}
+	},
+	"usages" : {}
+}

@@ -1,0 +1,23 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/test_transaction.dir/tests/test_transaction.cpp.o",
+      "requires": [
+        {
+          "logical-name": "kv_server"
+        },
+        {
+          "logical-name": "aof"
+        },
+        {
+          "logical-name": "timer"
+        },
+        {
+          "logical-name": "resp"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

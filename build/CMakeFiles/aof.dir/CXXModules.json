@@ -1,0 +1,36 @@
+{
+	"modules" : 
+	{
+		"aof" : 
+		{
+			"bmi" : "/app/build/CMakeFiles/aof.dir/aof.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"aof" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/aof.dir/aof.pcm"
+		},
+		"logger" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/logger.dir/logger.pcm"
+		},
+		"resp" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/resp.dir/resp.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"aof" : 
+		[
+			"logger",
+			"resp"
+		]
+	}
+}

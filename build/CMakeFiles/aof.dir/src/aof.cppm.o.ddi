@@ -1,0 +1,24 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/aof.dir/src/aof.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "aof",
+          "source-path": "/app/src/aof.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "logger"
+        },
+        {
+          "logical-name": "resp"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

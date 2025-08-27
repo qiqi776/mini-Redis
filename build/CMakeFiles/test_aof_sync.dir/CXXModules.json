@@ -1,0 +1,38 @@
+{
+	"modules" : {},
+	"references" : 
+	{
+		"aof" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/aof.dir/aof.pcm"
+		},
+		"logger" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/logger.dir/logger.pcm"
+		},
+		"resp" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/resp.dir/resp.pcm"
+		},
+		"timer" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/timer.dir/timer.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"aof" : 
+		[
+			"logger",
+			"resp"
+		],
+		"timer" : 
+		[
+			"logger"
+		]
+	}
+}

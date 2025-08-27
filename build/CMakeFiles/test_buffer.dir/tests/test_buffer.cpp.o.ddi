@@ -1,0 +1,14 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/test_buffer.dir/tests/test_buffer.cpp.o",
+      "requires": [
+        {
+          "logical-name": "buffer"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

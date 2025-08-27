@@ -1,0 +1,4 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/server_stat.dir/src/server_stat.cppm.o | CMakeFiles/server_stat.dir/server_stat.pcm: dyndep
+  restat = 1
+

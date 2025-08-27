@@ -1,0 +1,36 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/kv_server.dir/src/kv_server.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "kv_server",
+          "source-path": "/app/src/kv_server.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "resp"
+        },
+        {
+          "logical-name": "logger"
+        },
+        {
+          "logical-name": "aof"
+        },
+        {
+          "logical-name": "server_stat"
+        },
+        {
+          "logical-name": "timer"
+        },
+        {
+          "logical-name": "command"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

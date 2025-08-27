@@ -1,0 +1,14 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/performance_tester.dir/tools/performance_tester.cpp.o",
+      "requires": [
+        {
+          "logical-name": "client_utils"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

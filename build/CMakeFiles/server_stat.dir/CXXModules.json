@@ -1,0 +1,19 @@
+{
+	"modules" : 
+	{
+		"server_stat" : 
+		{
+			"bmi" : "/app/build/CMakeFiles/server_stat.dir/server_stat.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"server_stat" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/server_stat.dir/server_stat.pcm"
+		}
+	},
+	"usages" : {}
+}

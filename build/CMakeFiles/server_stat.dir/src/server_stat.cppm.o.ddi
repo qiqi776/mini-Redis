@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/server_stat.dir/src/server_stat.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "server_stat",
+          "source-path": "/app/src/server_stat.cppm"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

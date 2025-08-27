@@ -1,0 +1,19 @@
+{
+	"modules" : 
+	{
+		"logger" : 
+		{
+			"bmi" : "/app/build/CMakeFiles/logger.dir/logger.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"logger" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/logger.dir/logger.pcm"
+		}
+	},
+	"usages" : {}
+}

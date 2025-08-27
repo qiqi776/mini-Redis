@@ -1,0 +1,4 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/epoll_server.dir/src/epoll_server.cppm.o | CMakeFiles/epoll_server.dir/epoll_server.pcm: dyndep | CMakeFiles/kv_server.dir/kv_server.pcm CMakeFiles/resp.dir/resp.pcm CMakeFiles/buffer.dir/buffer.pcm CMakeFiles/logger.dir/logger.pcm CMakeFiles/timer.dir/timer.pcm
+  restat = 1
+

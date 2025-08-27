@@ -1,0 +1,30 @@
+{
+	"modules" : 
+	{
+		"timer" : 
+		{
+			"bmi" : "/app/build/CMakeFiles/timer.dir/timer.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"logger" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/logger.dir/logger.pcm"
+		},
+		"timer" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/timer.dir/timer.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"timer" : 
+		[
+			"logger"
+		]
+	}
+}

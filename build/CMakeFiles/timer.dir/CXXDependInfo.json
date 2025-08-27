@@ -1,0 +1,35 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/timer.dir/src/timer.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "cxx_modules",
+			"relative-directory" : "src",
+			"source" : "/app/src/timer.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"database-info" : null,
+	"dir-cur-bld" : "/app/build",
+	"dir-cur-src" : "/app",
+	"dir-top-bld" : "/app/build",
+	"dir-top-src" : "/app",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/app/build/CMakeFiles/logger.dir"
+	],
+	"module-dir" : "/app/build/CMakeFiles/timer.dir",
+	"sources" : {}
+}

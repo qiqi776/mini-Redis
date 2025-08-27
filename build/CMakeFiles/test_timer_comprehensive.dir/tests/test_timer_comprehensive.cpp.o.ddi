@@ -1,0 +1,17 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/test_timer_comprehensive.dir/tests/test_timer_comprehensive.cpp.o",
+      "requires": [
+        {
+          "logical-name": "timer"
+        },
+        {
+          "logical-name": "logger"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

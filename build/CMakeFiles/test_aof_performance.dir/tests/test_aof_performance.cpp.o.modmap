@@ -1,0 +1,4 @@
+-fmodule-file=aof=CMakeFiles/aof.dir/aof.pcm
+-fmodule-file=resp=CMakeFiles/resp.dir/resp.pcm
+-fmodule-file=logger=CMakeFiles/logger.dir/logger.pcm
+-fmodule-file=timer=CMakeFiles/timer.dir/timer.pcm

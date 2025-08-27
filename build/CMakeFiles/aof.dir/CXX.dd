@@ -1,0 +1,4 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/aof.dir/src/aof.cppm.o | CMakeFiles/aof.dir/aof.pcm: dyndep | CMakeFiles/logger.dir/logger.pcm CMakeFiles/resp.dir/resp.pcm
+  restat = 1
+

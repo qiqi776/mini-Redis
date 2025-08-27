@@ -1,0 +1,29 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/test_integration.dir/tests/test_integration.cpp.o",
+      "requires": [
+        {
+          "logical-name": "application"
+        },
+        {
+          "logical-name": "config"
+        },
+        {
+          "logical-name": "kv_server"
+        },
+        {
+          "logical-name": "resp"
+        },
+        {
+          "logical-name": "aof"
+        },
+        {
+          "logical-name": "logger"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

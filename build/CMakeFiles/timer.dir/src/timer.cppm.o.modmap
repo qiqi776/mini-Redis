@@ -1,0 +1,3 @@
+-x c++-module
+-fmodule-output=CMakeFiles/timer.dir/timer.pcm
+-fmodule-file=logger=CMakeFiles/logger.dir/logger.pcm

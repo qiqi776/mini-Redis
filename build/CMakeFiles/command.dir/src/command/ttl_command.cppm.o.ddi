@@ -1,0 +1,27 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/command.dir/src/command/ttl_command.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "ttl_command",
+          "source-path": "/app/src/command/ttl_command.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "command_defs"
+        },
+        {
+          "logical-name": "resp"
+        },
+        {
+          "logical-name": "logger"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

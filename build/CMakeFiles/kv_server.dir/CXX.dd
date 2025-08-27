@@ -1,0 +1,4 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/kv_server.dir/src/kv_server.cppm.o | CMakeFiles/kv_server.dir/kv_server.pcm: dyndep | CMakeFiles/resp.dir/resp.pcm CMakeFiles/logger.dir/logger.pcm CMakeFiles/aof.dir/aof.pcm CMakeFiles/server_stat.dir/server_stat.pcm CMakeFiles/timer.dir/timer.pcm CMakeFiles/command.dir/command.pcm
+  restat = 1
+

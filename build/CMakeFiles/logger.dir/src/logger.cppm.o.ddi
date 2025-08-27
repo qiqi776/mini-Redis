@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/logger.dir/src/logger.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "logger",
+          "source-path": "/app/src/logger.cppm"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

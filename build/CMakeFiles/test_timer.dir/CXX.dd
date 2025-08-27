@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/test_timer.dir/tests/test_timer.cpp.o: dyndep | CMakeFiles/timer.dir/timer.pcm CMakeFiles/logger.dir/logger.pcm
+

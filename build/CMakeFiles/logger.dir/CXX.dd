@@ -1,0 +1,4 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/logger.dir/src/logger.cppm.o | CMakeFiles/logger.dir/logger.pcm: dyndep
+  restat = 1
+

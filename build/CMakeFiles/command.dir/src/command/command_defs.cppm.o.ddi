@@ -1,0 +1,30 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/command.dir/src/command/command_defs.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "command_defs",
+          "source-path": "/app/src/command/command_defs.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "resp"
+        },
+        {
+          "logical-name": "logger"
+        },
+        {
+          "logical-name": "aof"
+        },
+        {
+          "logical-name": "server_stat"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

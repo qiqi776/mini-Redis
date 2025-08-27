@@ -1,0 +1,12 @@
+{
+	"modules" : {},
+	"references" : 
+	{
+		"buffer" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/buffer.dir/buffer.pcm"
+		}
+	},
+	"usages" : {}
+}

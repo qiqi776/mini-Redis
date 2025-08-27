@@ -1,0 +1,30 @@
+{
+	"modules" : 
+	{
+		"config" : 
+		{
+			"bmi" : "/app/build/CMakeFiles/config.dir/config.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"config" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/config.dir/config.pcm"
+		},
+		"logger" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/logger.dir/logger.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"config" : 
+		[
+			"logger"
+		]
+	}
+}

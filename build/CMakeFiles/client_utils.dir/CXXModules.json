@@ -1,0 +1,30 @@
+{
+	"modules" : 
+	{
+		"client_utils" : 
+		{
+			"bmi" : "/app/build/CMakeFiles/client_utils.dir/client_utils.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"client_utils" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/client_utils.dir/client_utils.pcm"
+		},
+		"resp" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/resp.dir/resp.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"client_utils" : 
+		[
+			"resp"
+		]
+	}
+}

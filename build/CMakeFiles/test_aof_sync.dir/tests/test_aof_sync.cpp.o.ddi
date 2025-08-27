@@ -1,0 +1,23 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/test_aof_sync.dir/tests/test_aof_sync.cpp.o",
+      "requires": [
+        {
+          "logical-name": "aof"
+        },
+        {
+          "logical-name": "resp"
+        },
+        {
+          "logical-name": "logger"
+        },
+        {
+          "logical-name": "timer"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

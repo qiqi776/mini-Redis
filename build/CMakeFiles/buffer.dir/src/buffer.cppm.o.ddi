@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/buffer.dir/src/buffer.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "buffer",
+          "source-path": "/app/src/buffer.cppm"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

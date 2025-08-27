@@ -1,0 +1,14 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/server.dir/src/main.cpp.o",
+      "requires": [
+        {
+          "logical-name": "application"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/resp.dir/src/resp.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "resp",
+          "source-path": "/app/src/resp.cppm"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

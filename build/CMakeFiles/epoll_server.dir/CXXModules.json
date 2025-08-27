@@ -1,0 +1,281 @@
+{
+	"modules" : 
+	{
+		"epoll_server" : 
+		{
+			"bmi" : "/app/build/CMakeFiles/epoll_server.dir/epoll_server.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"aof" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/aof.dir/aof.pcm"
+		},
+		"buffer" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/buffer.dir/buffer.pcm"
+		},
+		"command" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/command.dir/command.pcm"
+		},
+		"command_defs" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/command.dir/command_defs.pcm"
+		},
+		"command_factory" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/command.dir/command_factory.pcm"
+		},
+		"epoll_server" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/epoll_server.dir/epoll_server.pcm"
+		},
+		"expire_command" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/command.dir/expire_command.pcm"
+		},
+		"get_command" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/command.dir/get_command.pcm"
+		},
+		"info_command" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/command.dir/info_command.pcm"
+		},
+		"kv_server" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/kv_server.dir/kv_server.pcm"
+		},
+		"logger" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/logger.dir/logger.pcm"
+		},
+		"persist_command" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/command.dir/persist_command.pcm"
+		},
+		"pexpire_command" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/command.dir/pexpire_command.pcm"
+		},
+		"pttl_command" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/command.dir/pttl_command.pcm"
+		},
+		"resp" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/resp.dir/resp.pcm"
+		},
+		"server_stat" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/server_stat.dir/server_stat.pcm"
+		},
+		"set_command" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/command.dir/set_command.pcm"
+		},
+		"timer" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/timer.dir/timer.pcm"
+		},
+		"ttl_command" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/command.dir/ttl_command.pcm"
+		},
+		"unknown_command" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/command.dir/unknown_command.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"aof" : 
+		[
+			"logger",
+			"resp"
+		],
+		"command" : 
+		[
+			"aof",
+			"command_defs",
+			"command_factory",
+			"expire_command",
+			"get_command",
+			"info_command",
+			"logger",
+			"persist_command",
+			"pexpire_command",
+			"pttl_command",
+			"resp",
+			"server_stat",
+			"set_command",
+			"ttl_command",
+			"unknown_command"
+		],
+		"command_defs" : 
+		[
+			"aof",
+			"logger",
+			"resp",
+			"server_stat"
+		],
+		"command_factory" : 
+		[
+			"aof",
+			"command_defs",
+			"expire_command",
+			"get_command",
+			"info_command",
+			"logger",
+			"persist_command",
+			"pexpire_command",
+			"pttl_command",
+			"resp",
+			"server_stat",
+			"set_command",
+			"ttl_command",
+			"unknown_command"
+		],
+		"epoll_server" : 
+		[
+			"aof",
+			"buffer",
+			"command",
+			"command_defs",
+			"command_factory",
+			"expire_command",
+			"get_command",
+			"info_command",
+			"kv_server",
+			"logger",
+			"persist_command",
+			"pexpire_command",
+			"pttl_command",
+			"resp",
+			"server_stat",
+			"set_command",
+			"timer",
+			"ttl_command",
+			"unknown_command"
+		],
+		"expire_command" : 
+		[
+			"aof",
+			"command_defs",
+			"logger",
+			"resp",
+			"server_stat"
+		],
+		"get_command" : 
+		[
+			"aof",
+			"command_defs",
+			"logger",
+			"resp",
+			"server_stat"
+		],
+		"info_command" : 
+		[
+			"aof",
+			"command_defs",
+			"logger",
+			"resp",
+			"server_stat"
+		],
+		"kv_server" : 
+		[
+			"aof",
+			"command",
+			"command_defs",
+			"command_factory",
+			"expire_command",
+			"get_command",
+			"info_command",
+			"logger",
+			"persist_command",
+			"pexpire_command",
+			"pttl_command",
+			"resp",
+			"server_stat",
+			"set_command",
+			"timer",
+			"ttl_command",
+			"unknown_command"
+		],
+		"persist_command" : 
+		[
+			"aof",
+			"command_defs",
+			"logger",
+			"resp",
+			"server_stat"
+		],
+		"pexpire_command" : 
+		[
+			"aof",
+			"command_defs",
+			"logger",
+			"resp",
+			"server_stat"
+		],
+		"pttl_command" : 
+		[
+			"aof",
+			"command_defs",
+			"logger",
+			"resp",
+			"server_stat"
+		],
+		"set_command" : 
+		[
+			"aof",
+			"command_defs",
+			"logger",
+			"resp",
+			"server_stat"
+		],
+		"timer" : 
+		[
+			"logger"
+		],
+		"ttl_command" : 
+		[
+			"aof",
+			"command_defs",
+			"logger",
+			"resp",
+			"server_stat"
+		],
+		"unknown_command" : 
+		[
+			"aof",
+			"command_defs",
+			"logger",
+			"resp",
+			"server_stat"
+		]
+	}
+}

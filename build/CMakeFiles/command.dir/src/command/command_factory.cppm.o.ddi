@@ -1,0 +1,54 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/command.dir/src/command/command_factory.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "command_factory",
+          "source-path": "/app/src/command/command_factory.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "command_defs"
+        },
+        {
+          "logical-name": "get_command"
+        },
+        {
+          "logical-name": "set_command"
+        },
+        {
+          "logical-name": "expire_command"
+        },
+        {
+          "logical-name": "pexpire_command"
+        },
+        {
+          "logical-name": "ttl_command"
+        },
+        {
+          "logical-name": "pttl_command"
+        },
+        {
+          "logical-name": "persist_command"
+        },
+        {
+          "logical-name": "info_command"
+        },
+        {
+          "logical-name": "unknown_command"
+        },
+        {
+          "logical-name": "resp"
+        },
+        {
+          "logical-name": "logger"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

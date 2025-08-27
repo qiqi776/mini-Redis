@@ -1,0 +1,31 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/app/build",
+	"dir-cur-src" : "/app",
+	"dir-top-bld" : "/app/build",
+	"dir-top-src" : "/app",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/app/build/CMakeFiles/client_utils.dir",
+		"/app/build/CMakeFiles/resp.dir"
+	],
+	"module-dir" : "/app/build/CMakeFiles/client.dir",
+	"sources" : 
+	{
+		"CMakeFiles/client.dir/tools/client.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/app/tools/client.cpp"
+		}
+	}
+}

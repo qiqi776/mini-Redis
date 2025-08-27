@@ -1,0 +1,17 @@
+-x c++-module
+-fmodule-output=CMakeFiles/command.dir/command.pcm
+-fmodule-file=command_defs=CMakeFiles/command.dir/command_defs.pcm
+-fmodule-file=command_factory=CMakeFiles/command.dir/command_factory.pcm
+-fmodule-file=aof=CMakeFiles/aof.dir/aof.pcm
+-fmodule-file=expire_command=CMakeFiles/command.dir/expire_command.pcm
+-fmodule-file=get_command=CMakeFiles/command.dir/get_command.pcm
+-fmodule-file=info_command=CMakeFiles/command.dir/info_command.pcm
+-fmodule-file=logger=CMakeFiles/logger.dir/logger.pcm
+-fmodule-file=persist_command=CMakeFiles/command.dir/persist_command.pcm
+-fmodule-file=pexpire_command=CMakeFiles/command.dir/pexpire_command.pcm
+-fmodule-file=pttl_command=CMakeFiles/command.dir/pttl_command.pcm
+-fmodule-file=resp=CMakeFiles/resp.dir/resp.pcm
+-fmodule-file=server_stat=CMakeFiles/server_stat.dir/server_stat.pcm
+-fmodule-file=set_command=CMakeFiles/command.dir/set_command.pcm
+-fmodule-file=ttl_command=CMakeFiles/command.dir/ttl_command.pcm
+-fmodule-file=unknown_command=CMakeFiles/command.dir/unknown_command.pcm

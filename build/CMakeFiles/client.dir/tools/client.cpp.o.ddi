@@ -1,0 +1,17 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/client.dir/tools/client.cpp.o",
+      "requires": [
+        {
+          "logical-name": "resp"
+        },
+        {
+          "logical-name": "client_utils"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

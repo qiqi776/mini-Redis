@@ -1,0 +1,4 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/client_utils.dir/src/common/client_utils.cppm.o | CMakeFiles/client_utils.dir/client_utils.pcm: dyndep | CMakeFiles/resp.dir/resp.pcm
+  restat = 1
+

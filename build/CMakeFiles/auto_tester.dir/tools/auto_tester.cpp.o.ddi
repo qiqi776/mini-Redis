@@ -1,0 +1,14 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/auto_tester.dir/tools/auto_tester.cpp.o",
+      "requires": [
+        {
+          "logical-name": "client_utils"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

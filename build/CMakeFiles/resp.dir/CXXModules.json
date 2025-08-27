@@ -1,0 +1,19 @@
+{
+	"modules" : 
+	{
+		"resp" : 
+		{
+			"bmi" : "/app/build/CMakeFiles/resp.dir/resp.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"resp" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/resp.dir/resp.pcm"
+		}
+	},
+	"usages" : {}
+}
